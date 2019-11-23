@@ -1,0 +1,10 @@
+.image {
+    width: 60px;
+    height: 60px;
+  }
+
+
+.header{
+    grid-area: h ;
+    background-color: black;
+ }
