@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/social-web/static/css/main.c911280d.chunk.css",
+    "main.js": "/social-web/static/js/main.3d66fcde.chunk.js",
+    "main.js.map": "/social-web/static/js/main.3d66fcde.chunk.js.map",
+    "runtime-main.js": "/social-web/static/js/runtime-main.422cdc23.js",
+    "runtime-main.js.map": "/social-web/static/js/runtime-main.422cdc23.js.map",
+    "static/js/2.022b0f2b.chunk.js": "/social-web/static/js/2.022b0f2b.chunk.js",
+    "static/js/2.022b0f2b.chunk.js.map": "/social-web/static/js/2.022b0f2b.chunk.js.map",
+    "index.html": "/social-web/index.html",
+    "precache-manifest.80b4eb3a0650d0207f99d3208433c5b5.js": "/social-web/precache-manifest.80b4eb3a0650d0207f99d3208433c5b5.js",
+    "service-worker.js": "/social-web/service-worker.js",
+    "static/css/main.c911280d.chunk.css.map": "/social-web/static/css/main.c911280d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.422cdc23.js",
+    "static/js/2.022b0f2b.chunk.js",
+    "static/css/main.c911280d.chunk.css",
+    "static/js/main.3d66fcde.chunk.js"
+  ]
+}
