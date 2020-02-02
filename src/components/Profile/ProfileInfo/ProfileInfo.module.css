@@ -1,3 +1,9 @@
 .descriptionBlock{
     padding: 10px;
 }
+
+.backPhoto{
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+}

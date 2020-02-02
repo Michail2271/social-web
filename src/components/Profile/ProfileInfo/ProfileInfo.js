@@ -6,7 +6,7 @@ const ProfileInfo = () => {
   return (
     <div>
       <div>
-        <img className='background-image' src='https://join.easybooking.lk/wp-content/uploads/2017/08/Banner-3.jpg' />
+        <img className={s.backPhoto} src='https://cs8.pikabu.ru/post_img/big/2018/03/08/9/15205200051669284.jpg' />
       </div>
       <div className={s.descriptionBlock}>
         ava + discription

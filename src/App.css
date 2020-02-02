@@ -2,6 +2,7 @@
 .background-image{
   width: 100%;
   height: 100PX;
+  border-radius: 20px;
 }
 
 .app-wrapper {
@@ -18,9 +19,10 @@ grid-template-rows: 60px 1fr;
 .app-wrapper-content{
   grid-area: c;
   background-color: rgb(206, 134, 2);
+  border-radius: 15px;
 }
  
-
+  
  
 
  
